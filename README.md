@@ -135,3 +135,7 @@ This codebase is designed for research in:
 - Cross-domain generalization
 - Artistic style transfer effects on detection
 - Few-shot learning in artistic domains
+
+## Report
+
+The detailed research report is available at: [`report/Domain_adaptive_detection.pdf`](./report/Domain_adaptive_detection.pdf)
